@@ -1,0 +1,97 @@
+<div class="col-12 title-page">
+  <h1 style="text-align:center" class="title">Registro de Vendedor</h1>
+</div>
+
+<div class="container col-md-14">
+  <div class="col-12">
+    <form [formGroup]="formVendedor" class="form-horizontal">
+
+      <div class="row box-content-style">
+        <div class="form-group col-md-6 offset-md-3 campos">
+          <label>Nome</label>
+          <input type="text" formControlName="Nome" class="form-control" [(ngModel)]="vendedor.Nome"
+            placeholder="Nome do Vendedor" maxlength="150" [ngClass]="{ 'is-invalid': submitted && f.Nome.errors }"
+            tabindex="1" />
+          <div *ngIf="formVendedor.controls['Nome'].hasError('required')" class="invalid-feedback">
+            {{'Nome do Vendedor é obrigatorio!'}}
+          </div>
+        </div>
+      </div>
+
+      <div class="row box-content-style">
+        <div class="form-group col-md-6 offset-md-3 campos">
+          <label>Documento</label>
+          <input type="text" formControlName="Documento" class="form-control" [(ngModel)]="vendedor.Documento"
+            placeholder="Documento do Vendedor" maxlength="11"
+            [ngClass]="{ 'is-invalid': submitted && f.Documento.errors }" tabindex="2" />
+          <div *ngIf="formVendedor.controls['Documento'].hasError('required')" class="invalid-feedback">
+            {{'Documento do Vendedor é obrigatorio!'}}
+          </div>
+        </div>
+      </div>
+
+      <div class="row box-content-style">
+        <div class="form-group col-md-6 offset-md-3 campos">
+          <label>Salario</label>
+          <input type="number" formControlName="Salario" class="form-control" [(ngModel)]="vendedor.Salario"
+            placeholder="Salario do Vendedor" min="0" [ngClass]="{ 'is-invalid': submitted && f.Salario.errors }"
+            tabindex="3" />
+          <div *ngIf="submitted && f.Salario.errors" class="invalid-feedback">
+            <div *ngIf="f.Salario.errors.required">Salario do vendedor é obrigatorio!</div>
+          </div>
+          <div *ngIf="formVendedor.controls['Salario'].hasError('min')" class="invalid-feedback">
+            {{'Salario deve ser maior que 0!'}}
+          </div>
+        </div>
+      </div>
+
+      <div class="row box-content-style">
+        <div class="form-group col-md-6 offset-md-3 campos">
+          <label>Data de nascimento</label>
+          <input type="text" formControlName="DataNascimento" class="form-control" [(ngModel)]="vendedor.DataNascimento"
+            placeholder="Data de nascimento" min="0" [ngClass]="{ 'is-invalid': submitted && f.DataNascimento.errors }"
+            tabindex="4" />
+          <div *ngIf="submitted && f.DataNascimento.errors" class="invalid-feedback">
+            <div *ngIf="f.DataNascimento.errors.required">Data de nascimento do vendedor é obrigatorio!</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row box-content-style">
+        <div class="form-group col-md-6 offset-md-3 campos">
+          <label>Genero</label>
+          <input type="text" formControlName="Genero" class="form-control" [(ngModel)]="vendedor.Genero"
+            placeholder="Genero do Vendedor" maxlength="1" [ngClass]="{ 'is-invalid': submitted && f.Genero.errors }"
+            tabindex="5" />
+          <div *ngIf="formVendedor.controls['Genero'].hasError('required')" class="invalid-feedback">
+            {{'Genero do Vendedor é obrigatorio!'}}
+          </div>
+        </div>
+      </div>
+
+      <div class="row box-content-style">
+        <div class="form-group col-md-6 offset-md-3 campos">
+          <label>Endereco</label>
+          <input type="text" formControlName="Endereco" class="form-control" [(ngModel)]="vendedor.Endereco"
+            placeholder="Endereco do Vendedor" maxlength="200"
+            [ngClass]="{ 'is-invalid': submitted && f.Endereco.errors }" tabindex="6" />
+          <div *ngIf="formVendedor.controls['Endereco'].hasError('required')" class="invalid-feedback">
+            {{'Endereço do Vendedor é obrigatorio!'}}
+          </div>
+        </div>
+      </div>
+
+      <hr>
+      <div class="col-12">
+        <div class="row">
+          <div class="form col-12 offset-md-2">
+            <button type="button" (click)="validateForm()" class="btn btn-info">Atualizar</button>
+            <a routerLink="/vendedor/lista">
+              <button type="button" class="btn btn-warning">Voltar</button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

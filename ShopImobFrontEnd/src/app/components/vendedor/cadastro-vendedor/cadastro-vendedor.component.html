@@ -1,0 +1,103 @@
+<div class="container-fluid">
+  <div class="block-context row">
+    <div class="col-12 title-page">
+      <h1 style="text-align:center" class="title">Registro de Vendedor</h1>
+    </div>
+    <div class="col-12">
+      <form [formGroup]="formVendedor" class="form-horizontal">
+        <div class="row box-content-style">
+          <div class="form-group col-md-6 offset-md-3 campos">
+            <label>Nome</label>
+            <input type="text" formControlName="Nome" class="form-control" [(ngModel)]="vendedor.Nome"
+              placeholder="Nome do Vendedor" maxlength="150" [ngClass]="{ 'is-invalid': submitted && f.Nome.errors }"
+              tabindex="1" />
+            <div *ngIf="formVendedor.controls['Nome'].hasError('required')" class="invalid-feedback">
+              {{'Nome do Vendedor é obrigatorio!'}}
+            </div>
+          </div>
+        </div>
+
+        <div class="row box-content-style">
+          <div class="form-group col-md-6 offset-md-3 campos">
+            <label>Documento</label>
+            <input type="text" formControlName="Documento" class="form-control" [(ngModel)]="vendedor.Documento"
+              placeholder="Documento do Vendedor" maxlength="11"
+              [ngClass]="{ 'is-invalid': submitted && f.Documento.errors }" tabindex="2" />
+            <div *ngIf="formVendedor.controls['Documento'].hasError('required')" class="invalid-feedback">
+              {{'Documento do Vendedor é obrigatorio!'}}
+            </div>
+          </div>
+        </div>
+
+        <div class="row box-content-style">
+          <div class="form-group col-md-6 offset-md-3 campos">
+            <label>Salario</label>
+            <input type="text" formControlName="Salario" class="form-control" [(ngModel)]="vendedor.Salario"
+              placeholder="Salario do Vendedor" min="0" [ngClass]="{ 'is-invalid': submitted && f.Salario.errors }"
+              tabindex="3" />
+            <div *ngIf="submitted && f.Salario.errors" class="invalid-feedback">
+              <div *ngIf="f.Salario.errors.required">Salario do vendedor é obrigatorio!</div>
+            </div>
+            <div *ngIf="formVendedor.controls['Salario'].hasError('min')" class="invalid-feedback">
+              {{'Salario deve ser maior que 0!'}}
+            </div>
+          </div>
+        </div>
+
+        <div class="row box-content-style">
+          <div class="form-group col-md-6 offset-md-3">
+            <label class="control-label">Data de nascimento</label>
+            <input type="date" #DataNascimento="ngModel" name="DataNascimento" [(ngModel)]="vendedor.DataNascimento"
+              [ngModelOptions]="{standalone: true}" class="form-control" tabindex="4" required>
+            <div [hidden]="DataNascimento.valid || DataNascimento.pristine " class="alert alert-danger">
+              Data de nascimento deve ser preenchido!!
+            </div>
+          </div>
+        </div>
+
+        <div class="row box-content-style">
+          <div class="form-group col-md-6 offset-md-3">
+            <label class="control-label">Gênero</label>
+            <select class="form-control" name="Genero" #Genero="ngModel" [(ngModel)]="vendedor.Genero"
+              [ngModelOptions]="{standalone: true}" tabindex="5" required>
+              <option value="M">Masculino</option>
+              <option value="F">Feminino</option>
+            </select>
+            <div [hidden]="Genero.valid || Genero.pristine " class="alert alert-danger">
+              Gênero deve ser preenchido!!
+            </div>
+          </div>
+        </div>
+
+        <div class="row box-content-style">
+          <div class="form-group col-md-6 offset-md-3 campos">
+            <label>Endereco</label>
+            <input type="text" formControlName="Endereco" class="form-control" [(ngModel)]="vendedor.Endereco"
+              placeholder="Endereco do Vendedor" maxlength="200"
+              [ngClass]="{ 'is-invalid': submitted && f.Endereco.errors }" tabindex="6" />
+            <div *ngIf="formVendedor.controls['Endereco'].hasError('required')" class="invalid-feedback">
+              {{'Endereço do Vendedor é obrigatorio!'}}
+            </div>
+          </div>
+        </div>
+
+        <hr>
+        <div class="col-12">
+          <div class="row">
+            <div class="form col-12 offset-md-2">
+              <button (click)="validateForm()" [disabled]="loading" class="btn btn-success form-control col-md-2">
+                Registrar
+              </button>
+              <button type="reset" class="btn btn-warning  form-control col-md-2 offset-md-1">
+                Limpar
+              </button>
+              <a routerLink="/vendedor/lista">
+                <button type="button" class=" btn btn-danger  form-control col-md-2 offset-md-1">Voltar</button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

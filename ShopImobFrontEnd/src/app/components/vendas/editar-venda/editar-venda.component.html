@@ -1,0 +1,82 @@
+<div class="container-fluid">
+
+  <div class="page-header">
+    <h3>Alterar Venda</h3>
+  </div>
+  <div class="container col-md-14">
+    <div class="col-12">
+
+      <form [formGroup]="formVenda" class="form-horizontal">
+        <div class="form-row">
+
+          <div class="form-group col-md-6">
+            <label class="control-label">Vendedor</label>
+            <div>
+              <select placeholder="Vendedor" [(ngModel)]="venda.Id_Vendedor" formControlName="Id_Vendedor"
+                class="form-control">
+                <option *ngFor="let vendedor of vendedores" [ngValue]="vendedor.Id_Vendedor">{{vendedor.Nome}}
+                </option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group col-md-6">
+            <label class="control-label">Produto</label>
+            <div>
+              <select placeholder="Produto" #Produto name="Produto" [(ngModel)]="venda.Id_Produto"
+                formControlName="Id_Produto" class="form-control" (change)="calcValorTotal()">
+                <option *ngFor="let produto of produtos" [ngValue]="produto.Id_Produto">
+                  {{produto.Nome}}
+                </option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group col-md-6"
+            [ngClass]="{'has-error': !Quantidade.valid && (Quantidade.dirty || Quantidade.touched)}">
+            <label>Quantidade</label>
+            <input class="form-control" type="number" #Quantidade="ngModel" name="Quantidade" ng-blur="calcValorTotal()"
+              [(ngModel)]="venda.Quantidade" [ngModelOptions]="{standalone: true}" (keyup)="calcValorTotal()"
+              placeholder="Quantidade de produtos vendidos" required>
+            <div [hidden]="Quantidade.valid || Quantidade.pristine " class="alert alert-danger">
+              Quantidade deve ser preenchida!!
+            </div>
+          </div>
+          <div class="form-group col-md-6">
+            <label>Data da Venda</label>
+            <input type="text" formControlName="DataVenda" class="form-control" [(ngModel)]="venda.DataVenda"
+              placeholder="Data da Venda" min="0" [ngClass]="{ 'is-invalid': submitted && f.DataVenda.errors }"
+              tabindex="4" />
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group col-md-6"
+            [ngClass]="{'has-error': !ValorTotal.valid && (ValorTotal.dirty || ValorTotal.touched)}">
+            <label>Valor Total da Venda</label>
+            <input class="form-control" type="text" #ValorTotal="ngModel" name="ValorTotal"
+              [(ngModel)]="venda.ValorTotal" [ngModelOptions]="{standalone: true}" placeholder="Valor Total Venda"
+              disabled required>
+            <div [hidden]="ValorTotal.valid || ValorTotal.pristine " class="alert alert-danger">
+              Valor Total deve ser preenchido!!
+            </div>
+          </div>
+          <div class="form-group col-md-6"
+            [ngClass]="{'has-error': !ValorComissao.valid && (ValorComissao.dirty || ValorComissao.touched)}">
+            <label>Valor Comissão</label>
+            <input class="form-control" type="text" #ValorComissao="ngModel" name="ValorComissao"
+              [(ngModel)]="venda.ValorComissao" [ngModelOptions]="{standalone: true}" placeholder="valor comissão"
+              disabled required>
+            <div [hidden]="ValorComissao.valid || ValorComissao.pristine " class="alert alert-danger">
+              Valor deve ser preenchido!!
+            </div>
+          </div>
+        </div>
+        <div class="form-group col-md-12">
+          <button type="button" (click)="validateForm()" class="btn btn-success">Registrar</button>
+          <button type="reset" class="btn btn-warning">Reset</button>
+          <a routerLink="/vendas/lista">
+            <button type="button" class="btn btn-danger">Voltar</button>
+          </a>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

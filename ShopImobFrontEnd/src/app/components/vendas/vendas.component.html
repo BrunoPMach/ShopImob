@@ -1,0 +1,45 @@
+<div class="page-header">
+  <h3>Início</h3>
+</div>
+<div class="container col-md-12">
+  <div class="panel panel-default" [hidden]="hideList">
+    <div class="panel-heading">Lista de Vendas</div>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Vendedor</th>
+          <th>Produto</th>
+          <th>Quantidade</th>
+          <th>Data da Venda</th>
+          <th>Valor Comissão</th>
+          <th>Valor Total da Venda</th>
+          <th><a [routerLink]="['/vendas/cadastrar']" title="Cadastrar">
+              <span class="btn btn-warning ">Cadastrar</span>
+            </a></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let venda of listVenda">
+          <td>{{venda.Id}}</td>
+          <td>{{venda.NomeVendedor}}</td>
+          <td>{{venda.NomeProduto}}</td>
+          <td>{{venda.Quantidade}}</td>
+          <td>{{venda.DataVenda | date: 'dd/MM/yyyy'}}</td>
+          <td>{{'R$' + venda.ValorComissao}}</td>
+          <td>{{'R$' + venda.ValorTotal}}</td>
+
+          <td>
+            <a [routerLink]="['/vendas/editar', venda.Id]" title="Editar">
+              <span class="btn btn-info">Alterar</span>
+            </a>
+            <a [routerLink]="['/vendas/apagar', venda.Id]" title="Excluir">
+              <span class="btn btn-danger ">Remover</span>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>

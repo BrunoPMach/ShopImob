@@ -1,0 +1,30 @@
+<nav class="navbar navbar-expand-lg fixed-top">
+  <a class="navbar-brand" href="#">ShopImob </a>
+  <button class="navbar-toggler" type="button" (click)="toggleSidebar()">
+    <i class="fa fa-bars text-muted" aria-hidden="true"></i>
+  </button>
+  <div class=" navbar navbar-expand mr-auto  ">
+    <div class="navbar-nav list-group">
+      <a class="nav-item nav-link active" routerLink="/home">Home</a>
+      <a routerLink='/vendas/lista' [routerLinkActive]="['router-link-active']" class="nav-item nav-link active">
+        <i class="fa fa-fw fa-trophy"></i>
+        <span>{{ 'Vendas' }}</span>
+      </a>
+
+      <a routerLink='/produtos/lista' [routerLinkActive]="['router-link-active']" class="nav-item nav-link active">
+        <i class="fa fa-fw fa-building"></i>
+        <span>{{ 'Produtos' }}</span>
+      </a>
+
+      <a routerLink='/vendedor/lista' [routerLinkActive]="['router-link-active']" class="nav-item nav-link active">
+        <i class="fa fa-fw fa-building"></i>
+        <span>{{ 'Vendedores' }}</span>
+      </a>
+      <hr>
+      <a routerLink='/vendas/relatorio' [routerLinkActive]="['router-link-active']" class="nav-item nav-link active">
+        <i class="fa fa-fw fa-building"></i>
+        <span>{{ 'Relatório' }}</span>
+      </a>
+    </div>
+  </div>
+</nav>

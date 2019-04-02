@@ -1,0 +1,35 @@
+<div class="page-header">
+  <h3>Início</h3>
+</div>
+<div class="container col-md-12">
+  <div class="panel panel-default" [hidden]="hideList">
+    <div class="panel-heading">Lista de Produtos</div>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Cód. Produto</th>
+          <th>Nome</th>
+          <th>Valor</th>
+          <th><a [routerLink]="['/produtos/cadastrar']" title="Cadastrar">
+              <span class="btn btn-warning ">Cadastrar</span>
+            </a></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let produto of listProduto">
+          <td>{{produto.Id_Produto}}</td>
+          <td>{{produto.Nome}}</td>
+          <td>{{'R$' + produto.Valor}}</td>
+          <td>
+            <a [routerLink]="['/produtos/editar', produto.Id_Produto]" title="Editar">
+              <span class="btn btn-info">Alterar</span>
+            </a>
+            <a [routerLink]="['/produtos/apagar', produto.Id_Produto]" title="Excluir">
+              <span class="btn btn-danger ">Remover</span>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

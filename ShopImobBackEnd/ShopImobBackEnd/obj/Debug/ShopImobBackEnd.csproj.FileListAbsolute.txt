@@ -1,0 +1,771 @@
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\ApplicationInsights.config
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.exe
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.exe.config
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.rsp
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.exe
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.exe.config
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.rsp
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.AppContext.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Collections.Immutable.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Console.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.Process.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.Compression.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.Pipes.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Reflection.Metadata.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.AccessControl.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Claims.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Principal.Windows.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Threading.Thread.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.ValueTuple.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XPath.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.exe
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.exe.config
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.rsp
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\VBCSCompiler.exe
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\VBCSCompiler.exe.config
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.dll.config
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.pdb
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Win32.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\netstandard.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.AppContext.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Concurrent.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.NonGeneric.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Specialized.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.EventBasedAsync.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.TypeConverter.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Console.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Data.Common.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Contracts.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Debug.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.FileVersionInfo.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Process.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.StackTrace.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Tools.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.TraceSource.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Tracing.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Drawing.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Dynamic.Runtime.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.Calendars.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.Extensions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Compression.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Compression.ZipFile.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.DriveInfo.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.Watcher.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.IsolatedStorage.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.MemoryMappedFiles.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Pipes.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.UnmanagedMemoryStream.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Expressions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Parallel.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Queryable.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.NameResolution.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.NetworkInformation.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Ping.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Requests.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Security.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Sockets.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebHeaderCollection.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebSockets.Client.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebSockets.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.ObjectModel.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.Extensions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.Reader.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.ResourceManager.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.Writer.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Extensions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Handles.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.InteropServices.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Numerics.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Formatters.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Json.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Xml.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Claims.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Algorithms.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Csp.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Encoding.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.X509Certificates.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Principal.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.SecureString.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.Encoding.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.Encoding.Extensions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.RegularExpressions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Overlapped.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Tasks.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Tasks.Parallel.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Thread.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.ThreadPool.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Timer.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.ValueTuple.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.ReaderWriter.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XDocument.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XmlDocument.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XmlSerializer.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XPath.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XPath.XDocument.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Antlr3.Runtime.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.SqlServer.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.DependencyCollector.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Web.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.WindowsServer.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.ApplicationInsights.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Options.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Primitives.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Web.Infrastructure.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Newtonsoft.Json.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Remotion.Linq.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Buffers.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Immutable.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.Annotations.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Data.SqlClient.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.DiagnosticSource.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Interactive.Async.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Memory.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.Formatting.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Numerics.Vectors.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Cors.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Helpers.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.Cors.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.WebHost.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Mvc.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Optimization.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Razor.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Deployment.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Razor.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\WebGrease.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.SqlServer.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Options.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Primitives.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Remotion.Linq.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Buffers.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Immutable.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.DiagnosticSource.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Interactive.Async.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Memory.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.Formatting.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Numerics.Vectors.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.Cors.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Newtonsoft.Json.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Helpers.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.WebHost.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Mvc.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Optimization.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Razor.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Deployment.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Razor.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Antlr3.Runtime.pdb
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.ApplicationInsights.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.DependencyCollector.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.WindowsServer.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Web.xml
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Net.Http.Formatting.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Http.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Helpers.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Http.WebHost.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Mvc.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Optimization.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Razor.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csprojResolveAssemblyReference.cache
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csproj.CoreCompileInputs.cache
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.dll
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.pdb
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.Migrations.ShopImob.resources
+E:\BackFront\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csproj.GenerateResource.Cache
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\ApplicationInsights.config
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.exe
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.exe.config
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.rsp
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.exe
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.exe.config
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.rsp
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.AppContext.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Console.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.Process.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.Compression.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.Pipes.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.AccessControl.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Claims.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Threading.Thread.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.ValueTuple.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XPath.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.exe
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.exe.config
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.rsp
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\VBCSCompiler.exe
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.dll.config
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.pdb
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Win32.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\netstandard.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.AppContext.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Concurrent.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.NonGeneric.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Specialized.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.EventBasedAsync.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.TypeConverter.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Console.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Data.Common.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Contracts.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Debug.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.FileVersionInfo.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Process.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.StackTrace.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Tools.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.TraceSource.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Tracing.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Drawing.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Dynamic.Runtime.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.Calendars.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.Extensions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Compression.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Compression.ZipFile.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.DriveInfo.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.Watcher.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.IsolatedStorage.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.MemoryMappedFiles.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Pipes.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.UnmanagedMemoryStream.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Expressions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Parallel.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Queryable.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.NameResolution.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.NetworkInformation.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Ping.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Requests.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Security.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Sockets.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebHeaderCollection.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebSockets.Client.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebSockets.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.ObjectModel.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.Extensions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.Reader.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.ResourceManager.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.Writer.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Extensions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Handles.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.InteropServices.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Numerics.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Formatters.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Json.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Xml.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Claims.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Algorithms.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Csp.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Encoding.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.X509Certificates.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Principal.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.SecureString.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.Encoding.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.Encoding.Extensions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.RegularExpressions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Overlapped.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Tasks.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Tasks.Parallel.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Thread.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.ThreadPool.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Timer.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.ValueTuple.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.ReaderWriter.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XDocument.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XmlDocument.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XmlSerializer.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XPath.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XPath.XDocument.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Antlr3.Runtime.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.SqlServer.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Web.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Options.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Primitives.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Newtonsoft.Json.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Remotion.Linq.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Buffers.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Immutable.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.Annotations.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Data.SqlClient.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.DiagnosticSource.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Interactive.Async.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Memory.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.Formatting.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Numerics.Vectors.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Cors.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Helpers.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.Cors.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.WebHost.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Mvc.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Optimization.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Razor.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Razor.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\WebGrease.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.SqlServer.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Options.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Primitives.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Remotion.Linq.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Buffers.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Immutable.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.DiagnosticSource.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Interactive.Async.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Memory.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.Formatting.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Numerics.Vectors.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.Cors.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.WebHost.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Newtonsoft.Json.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Helpers.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Mvc.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Optimization.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Razor.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Razor.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Antlr3.Runtime.pdb
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Web.xml
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Http.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Helpers.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Mvc.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Optimization.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Razor.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csprojResolveAssemblyReference.cache
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.Migrations.ShopImob.resources
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csproj.GenerateResource.Cache
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csproj.CoreCompileInputs.cache
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.dll
+D:\BackFront 01-03 v2\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.pdb
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\ApplicationInsights.config
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.exe
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.exe.config
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csc.rsp
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.exe
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.exe.config
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\csi.rsp
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.AppContext.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Collections.Immutable.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Console.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.Process.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.Compression.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.IO.Pipes.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Reflection.Metadata.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.AccessControl.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Claims.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Security.Principal.Windows.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Threading.Thread.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.ValueTuple.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XPath.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.exe
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.exe.config
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\vbc.rsp
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\VBCSCompiler.exe
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\roslyn\VBCSCompiler.exe.config
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.dll.config
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\ShopImobBackEnd.pdb
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Win32.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\netstandard.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.AppContext.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Concurrent.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.NonGeneric.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Specialized.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.EventBasedAsync.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.TypeConverter.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Console.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Data.Common.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Contracts.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Debug.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.FileVersionInfo.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Process.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.StackTrace.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Tools.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.TraceSource.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.Tracing.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Drawing.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Dynamic.Runtime.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.Calendars.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Globalization.Extensions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Compression.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Compression.ZipFile.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.DriveInfo.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.FileSystem.Watcher.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.IsolatedStorage.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.MemoryMappedFiles.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.Pipes.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.IO.UnmanagedMemoryStream.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Expressions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Parallel.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Linq.Queryable.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.NameResolution.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.NetworkInformation.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Ping.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Requests.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Security.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Sockets.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebHeaderCollection.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebSockets.Client.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.WebSockets.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.ObjectModel.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.Extensions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Reflection.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.Reader.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.ResourceManager.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Resources.Writer.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Extensions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Handles.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.InteropServices.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Numerics.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Formatters.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Json.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.Serialization.Xml.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Claims.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Algorithms.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Csp.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Encoding.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Cryptography.X509Certificates.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.Principal.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Security.SecureString.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.Encoding.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.Encoding.Extensions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Text.RegularExpressions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Overlapped.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Tasks.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Tasks.Parallel.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Thread.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.ThreadPool.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Threading.Timer.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.ValueTuple.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.ReaderWriter.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XDocument.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XmlDocument.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XmlSerializer.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XPath.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Xml.XPath.XDocument.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Antlr3.Runtime.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.SqlServer.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.DependencyCollector.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Web.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.WindowsServer.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.ApplicationInsights.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Options.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Primitives.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Web.Infrastructure.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Newtonsoft.Json.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Remotion.Linq.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Buffers.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Immutable.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.ComponentModel.Annotations.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Data.SqlClient.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.DiagnosticSource.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Interactive.Async.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Memory.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.Formatting.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Numerics.Vectors.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Cors.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Helpers.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.Cors.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.WebHost.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Mvc.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Optimization.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Razor.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Deployment.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Razor.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\WebGrease.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\EntityFramework.SqlServer.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Options.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.Extensions.Primitives.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Remotion.Linq.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Buffers.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Collections.Immutable.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Diagnostics.DiagnosticSource.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Interactive.Async.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Memory.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Net.Http.Formatting.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Numerics.Vectors.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.Cors.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Http.WebHost.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Newtonsoft.Json.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Helpers.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Mvc.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Optimization.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.Razor.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Deployment.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\System.Web.WebPages.Razor.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Antlr3.Runtime.pdb
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.ApplicationInsights.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.DependencyCollector.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.WindowsServer.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\Microsoft.AI.Web.xml
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Net.Http.Formatting.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Http.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Http.WebHost.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Helpers.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Mvc.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Optimization.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.Razor.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csprojResolveAssemblyReference.cache
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.Migrations.ShopImob.resources
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csproj.GenerateResource.Cache
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.csproj.CoreCompileInputs.cache
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.dll
+E:\BackFront\ShopImob\ShopImobBackEnd\ShopImobBackEnd\obj\Debug\ShopImobBackEnd.pdb

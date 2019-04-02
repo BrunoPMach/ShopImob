@@ -1,0 +1,39 @@
+<div class="page-header">
+  <h3>Início</h3>
+</div>
+<div class="container col-md-12">
+  <div class="panel panel-default" [hidden]="hideList">
+    <div class="panel-heading">Lista de Vendedores</div>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Cód. Vendedor</th>
+          <th>Nome</th>
+          <th>Documento</th>
+          <th>Data de nascimento</th>
+          <th>Salário</th>
+          <th><a [routerLink]="['/vendedor/cadastrar']" title="Cadastrar">
+              <span class="btn btn-warning ">Cadastrar</span>
+            </a></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let vendedor of listVendedor">
+          <td>{{vendedor.Id_Vendedor}}</td>
+          <td>{{vendedor.Nome}}</td>
+          <td>{{vendedor.Documento}}</td>
+          <td>{{vendedor.DataNascimento | date: 'dd/MM/yyyy'}}</td>
+          <td>{{'R$' + vendedor.Salario }}</td>
+          <td>
+            <a [routerLink]="['/vendedor/editar', vendedor.Id_Vendedor]" title="Editar">
+              <span class="btn btn-info">Alterar</span>
+            </a>
+            <a [routerLink]="['/vendedor/apagar', vendedor.Id_Vendedor]" title="Excluir">
+              <span class="btn btn-danger ">Remover</span>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
